@@ -1,2 +1,1 @@
-# new-web
-проект на udemy
+# Magic Stone

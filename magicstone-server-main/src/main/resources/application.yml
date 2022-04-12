@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: "jdbc:postgresql://89.223.67.87:5432/magicstone"
+    username: magicstone
+    password: LjfAkW4PguJ9dLHz
